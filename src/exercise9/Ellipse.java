@@ -51,7 +51,7 @@ public class Ellipse {
     if(a == b){
       return "Circle";
     }else{
-      return "Elipse";
+      return "Ellipse";
     }
 
   }
